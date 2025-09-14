@@ -1,0 +1,9 @@
+# Virtual environments
+venv/
+.llm_env/
+env/
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+.DS_Store
+.env
