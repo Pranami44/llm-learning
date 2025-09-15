@@ -10,6 +10,7 @@ This repository documents my learning path towards becoming an **LLM Engineer**,
 
 ## 📅 Progress Tracker
 - **Day 1**: Python refresher, functions, classes, comprehensions
+- **Day 2**: Numpy, Pandas and Hugging Face refreshers
 
 - More coming as I progress through the **Agentic AI Course (Spring 2025)** and other learning phases.
 
