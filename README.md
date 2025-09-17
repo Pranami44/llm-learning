@@ -13,7 +13,9 @@ I’m following a roadmap that combines:
 ### **Phase 0 – Basics**
 - [x] **Python Basics**: functions, classes, list/dict comprehensions → [`python_basics.ipynb`](./notebooks/phase0_basics/python_basics.ipynb)  
 - [x] **NumPy & Pandas**: arrays, indexing, dataframes, filtering, groupby → [`numpy_basics.ipynb`](./notebooks/phase0_basics/numpy_basics.ipynb), [`pandas_basics.ipynb`](./notebooks/phase0_basics/pandas_basics.ipynb)  
-- [x] **HuggingFace Intro**: pipelines, text generation → [`huggingface_basics.ipynb`](./notebooks/phase0_basics/huggingface_basics.ipynb)  
+- [x] **HuggingFace Intro**: pipelines, text generation → [`huggingface_basics.ipynb`](./notebooks/phase0_basics/huggingface_basics.ipynb)
+- [x] - [ ] **LLM Reasoning Experiments**: toy reasoning prompts → [`llm_reasoning.ipynb`](./notebooks/phase0_basics/llm_reasoning.ipynb)  
+ 
 
 ### **Phase 1 – LLM Foundations**
 - Transformers architecture & attention mechanism  
