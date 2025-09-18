@@ -5,6 +5,7 @@ pandas>=2.0.0
 # HuggingFace Transformers
 transformers>=4.35.0
 torch>=2.1.0
+accelerate
 
 # Optional: for nice progress bars
 tqdm>=4.65.0
