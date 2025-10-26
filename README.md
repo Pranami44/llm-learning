@@ -18,11 +18,14 @@ I’m following a roadmap that combines:
 - [x] **Toy Agent**: simple math + text agent → [`toy_agent.ipynb`](./notebooks/phase0_basics/toy_agent.ipynb)  
  
 
-### **Phase 1 – LLM Foundations**
-- Transformers architecture & attention mechanism  
-- Pretraining & fine-tuning experiments  
-- Prompting strategies and evaluation  
-- Notebooks under: `notebooks/phase1_llm_foundations/`  
+### **Agentic AI MOOC lectures**
+- Notes and summaries from the **[Agentic AI Learning — Fall 2025](https://agenticai-learning.org/f25)** course  
+- Includes:
+  - Lecture notes and key takeaways  
+  - Concept explanations and reflections  
+  - References and related resources  
+- **Purpose:** To document my progress and deepen understanding of **agentic systems**, **LLMs**, and **AI reasoning**
+
 
 ---
 
